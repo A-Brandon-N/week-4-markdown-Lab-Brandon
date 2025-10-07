@@ -8,3 +8,7 @@
 2. Second step
 [Visit GitHub](https://github.com)
 4. Save the file (Ctr + S).
+
+
+## Julcovy Mayhamba contributios  
+- Added my name and a new bullet point
